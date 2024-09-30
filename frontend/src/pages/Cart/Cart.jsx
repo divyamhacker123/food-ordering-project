@@ -42,7 +42,7 @@ const Cart = () => {
           <h2>Cart Totals</h2>
           <div>
             <div className="cart-total-details">
-            <p>Subtotal</p>
+            <p>NewSubtotal</p>
             <p>{0}</p>
             </div>
             <hr />
